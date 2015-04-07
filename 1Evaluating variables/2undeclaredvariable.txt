@@ -1,0 +1,3 @@
+var a;
+console.log("The value of a is " + a); // logs "The value of a is undefined"
+console.log("The value of b is " + b); // throws ReferenceError exception

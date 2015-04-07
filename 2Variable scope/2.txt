@@ -1,0 +1,6 @@
+//EcmaScript 6 keyword let allowing block statement
+
+if (true) {
+  let y = 5;
+}
+console.log(y);  // undefined

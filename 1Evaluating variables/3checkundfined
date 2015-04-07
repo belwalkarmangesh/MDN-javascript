@@ -1,0 +1,8 @@
+var input;
+if(input === undefined){
+  
+  console.log('input is undefined');
+} else {
+  
+  console.log('input is defined');
+}
